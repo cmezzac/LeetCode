@@ -1,3 +1,3 @@
 # LeetCode
 
-Contains Duplicate May 21 2025 : https://neetcode.io/problems/duplicate-integer
+**May 21 2025** Contains Duplicate: https://neetcode.io/problems/duplicate-integer
