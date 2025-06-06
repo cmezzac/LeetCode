@@ -12,3 +12,4 @@
 **#10 June 05 2025** Two Sum II : https://neetcode.io/problems/two-integer-sum-ii?list=blind75<br>
 **#11 June 05 2025** Three Sum : https://neetcode.io/problems/three-integer-sum?list=blind75<br>
 **#12 June 06 2025** Three Sum : https://neetcode.io/problems/max-water-container?list=blind75<br>
+**#13 June 06 2025** Three Sum : https://neetcode.io/problems/validate-parentheses?list=blind75<br>
