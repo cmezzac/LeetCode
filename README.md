@@ -9,3 +9,5 @@
 **#7 June 02 2025** Valid Sudoku : https://neetcode.io/problems/valid-sudoku?list=blind75<br>
 **#8 June 02 2025** LongestConsecutiveSequence : https://neetcode.io/problems/longest-consecutive-sequence?list=blind75<br>
 **#9 June 02 2025** Valid Palindrome : https://neetcode.io/problems/is-palindrome?list=blind75<br>
+**#10 June 05 2025** Two Sum II : https://neetcode.io/problems/two-integer-sum-ii?list=blind75<br>
+**#11 June 05 2025** Three Sum : https://neetcode.io/problems/three-integer-sum?list=blind75<br>
